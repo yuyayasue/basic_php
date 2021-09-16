@@ -1,0 +1,10 @@
+div {
+    background-color: yellow;
+    width: 200px;
+    border: solid 3px;
+}
+
+body {
+    display: flex;
+    
+}
